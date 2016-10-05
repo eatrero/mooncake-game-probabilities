@@ -1,0 +1,15 @@
+{
+  "name": "mooncake-game-probabilities",
+  "version": "1.0.0",
+  "description": "calculates the probabilities of prizes using brute force",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Atrero <eatrero@gmail.com>",
+  "license": "ISC"
+}
